@@ -23,3 +23,9 @@ Git fetch  is more explicit and gives you control over when to merge changes int
 
 In simple terms, git rebase is a Git command used to change the base of your branch. It allows you to rewrite the commit history by moving or combining commits. The primary purpose is to create a cleaner, more linear history.the code for git rebase is  git rebase [base_branch].
  
+ # **Explain in simple terms cherry-pick and the command for it**
+
+ In simple terms, git cherry-pick is a Git command that allows you to copy a specific commit from one branch and apply it onto another branch. It's like picking a commit from one place and placing it onto another branch.the command for git cherry-pick is git cherry-pick [commit_hash].
+ 
+
+
