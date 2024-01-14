@@ -14,3 +14,7 @@ Git is the version control system itself, used for tracking changes locally, whi
 3. Sourceflow.
    
 
+
+# **Explain difference between git fetch and git pull**
+
+Git fetch  is more explicit and gives you control over when to merge changes into your local branches,it is useful when you want to review changes before integrating them. while git pull is more automated and combines the fetch and merge steps, making it a quicker way to update your working copy.
